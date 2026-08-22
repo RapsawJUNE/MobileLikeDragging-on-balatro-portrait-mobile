@@ -15,5 +15,5 @@ https://github.com/ShaggyLorean/balatro-portrait-mobile?tab=readme-ov-file
 STEP2: Download MOD MobileLikeDragging and put it in the right place
 https://github.com/PIPIKAI/MobileLikeDragging
 
-STEP3: Download "misc_functions.toml" in release and replace the original files within the mod folder. 
+STEP3: Download "misc_functions.toml" in Releases and replace the original files within the mod folder. 
 Origin file path MobileLikeDragging\lovely\misc_functions.toml
