@@ -1,13 +1,6 @@
  A toml format configuration file adapted for the portrait-mode version of Balatro. Modified from the original "Mobilelikedragging" Mod file.
 
 
-<img width="1080" height="2376" alt="ce02935a9fd9c2952baa92d1c7a62911" src="https://github.com/user-attachments/assets/e121a2be-ce94-4330-84ce-7b2d7b601d8b" />
-<img width="1080" height="2376" alt="d51e51af250e5e9a5f2d0f9d5a0d022a" src="https://github.com/user-attachments/assets/1e893d20-69d9-4cf7-8092-74c20c0069b3" />
-
-
-
-
-
 
 HOW TO USE:
 
@@ -19,3 +12,12 @@ https://github.com/PIPIKAI/MobileLikeDragging
 
 STEP3: Download "misc_functions.toml" in Releases and replace the original files within the mod folder. 
 Origin file path MobileLikeDragging\lovely\misc_functions.toml
+
+<img width="1080" height="2376" alt="38a677aab37888bf45214f09650c5c7a" src="https://github.com/user-attachments/assets/a2319c2f-fd2c-4e79-9e82-d073790f491a" />
+<img width="1080" height="2376" alt="810988ca48064eecbcaf3840c4f58e2b" src="https://github.com/user-attachments/assets/7fa4da6e-72ec-4549-b822-f5037559a25f" />
+
+
+
+
+
+
