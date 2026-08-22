@@ -8,6 +8,7 @@
 
 
 HOW TO USE:
+
 STEP1: Install balatro-portrait-mobile
 https://github.com/ShaggyLorean/balatro-portrait-mobile?tab=readme-ov-file
 
